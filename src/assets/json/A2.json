@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Gentle Yoga",
+    "date": "2024-09-10",
+    "activityType": ["Physical", "Well-being"],
+    "details": {
+      "description": "A gentle yoga class designed for seniors to improve flexibility and reduce stress. No prior experience required. Mats and equipment will be provided.",
+      "location": "Community Center Room 101",
+      "time": "10:00 AM - 11:00 AM",
+      "instructor": "Alice Smith"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Book Club: Classic Literature",
+    "date": "2024-09-15",
+    "activityType": ["Social", "Educational"],
+    "details": {
+      "description": "Join us for a lively discussion on classic literature. This month's book is 'Pride and Prejudice' by Jane Austen. New members are always welcome!",
+      "location": "Community Library",
+      "time": "2:00 PM - 3:30 PM",
+      "facilitator": "John Doe"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Gardening Workshop",
+    "date": "2024-09-20",
+    "activityType": ["Educational", "Outdoor"],
+    "details": {
+      "description": "Learn the basics of gardening and how to grow your own vegetables and flowers. This hands-on workshop is perfect for beginners and seasoned gardeners alike.",
+      "location": "Community Garden",
+      "time": "9:00 AM - 12:00 PM",
+      "instructor": "Mary Johnson"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Painting for Pleasure",
+    "date": "2024-09-25",
+    "activityType": ["Art", "Creative"],
+    "details": {
+      "description": "Explore your creative side with our painting class. All materials will be provided, and no prior experience is needed. Come and create your own masterpiece!",
+      "location": "Art Studio",
+      "time": "1:00 PM - 3:00 PM",
+      "instructor": "Emily Brown"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Movie Night: Classic Cinema",
+    "date": "2024-09-30",
+    "activityType": ["Entertainment", "Social"],
+    "details": {
+      "description": "Enjoy a night of classic cinema with friends. This month's feature is 'Casablanca'. Popcorn and refreshments will be provided.",
+      "location": "Main Hall",
+      "time": "6:30 PM - 8:30 PM",
+      "facilitator": "Robert Wilson"
+    }
+  }
+]
